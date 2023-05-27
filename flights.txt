@@ -1,0 +1,4 @@
+Code	Time	Airlines	From		To		Date
+2n223	14:05	Air Blue	Pakistan	Germany 	25-06-2021
+2m433	16:20	Fly Dubai	Pakistan 	Dubai		25-06-2021
+3d422	19:30	Qatar		Pakistan	Qatar		25-06-2021
